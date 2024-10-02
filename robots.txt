@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rphelkea.github.io/sitemap.html.gz
+Sitemap: https://rphelkea.github.io/app/sitemap.html.gz
+Sitemap: https://rphelkea.github.io/assets/sitemap.html.gz
+Sitemap: https://rphelkea.github.io/css/sitemap.html.gz
+Sitemap: https://rphelkea.github.io/data/sitemap.html.gz
+Sitemap: https://rphelkea.github.io/includes/sitemap.html.gz
+Sitemap: https://rphelkea.github.io/item/sitemap.html.gz
+Sitemap: https://rphelkea.github.io/src/sitemap.html.gz
